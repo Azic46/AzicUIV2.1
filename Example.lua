@@ -10,7 +10,7 @@
     It demonstrates interface components only; it does not automate gameplay.
 ]]
 
-local REPO = "https://raw.githubusercontent.com/Azic46/AzicUI/main/"
+local REPO = "https://raw.githubusercontent.com/Azic46/AzicUIV2.1/refs/heads/main/Library.lua"
 
 --==============================================================
 -- 1. STANDALONE LOADING SCREEN
