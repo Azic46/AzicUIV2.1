@@ -10,7 +10,10 @@
     It demonstrates interface components only; it does not automate gameplay.
 ]]
 
-local REPO = "https://raw.githubusercontent.com/Azic46/AzicUIV2.1/refs/heads/main/Library.lua"
+local REPO = "https://raw.githubusercontent.com/Azic46/AzicUIV2.1/refs/heads/main/"
+
+game:HttpGet(REPO .. "Library.lua")
+game:HttpGet(REPO .. "LoadingScreen.lua")
 
 --==============================================================
 -- 1. STANDALONE LOADING SCREEN
